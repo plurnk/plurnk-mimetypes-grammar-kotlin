@@ -1,6 +1,6 @@
 {
     "name": "@plurnk/plurnk-mimetypes-grammar-kotlin",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Pre-built tree-sitter-kotlin WASM grammar for @plurnk/plurnk-mimetypes.",
     "type": "module",
     "license": "MIT",
